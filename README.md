@@ -1,5 +1,5 @@
 # hm-playercount
-playercount for QB-Core
+Simple playcount for QB-Core based of the qb-scoreboard that includes a way to see ID's above players heads!
 
 # License
 
