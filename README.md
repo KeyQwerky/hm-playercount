@@ -1,6 +1,9 @@
 # hm-playercount
 Simple playcount for QB-Core based of the qb-scoreboard that includes a way to see ID's above players heads!
 
+![image](https://user-images.githubusercontent.com/120094999/214782796-2d059c66-d45d-4210-b395-eaea58201322.png)
+
+
 # License
 
     QBCore Framework
