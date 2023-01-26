@@ -1,5 +1,5 @@
-# qb-scoreboard
-Scoreboard for QB-Core
+# hm-playercount
+playercount for QB-Core
 
 # License
 
